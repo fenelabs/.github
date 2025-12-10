@@ -9,6 +9,6 @@
 
 
 [Fene](https://fene.network) 
-The NDPoS (New Delegated Proof of Stake) consensus protocol used in the FENE Ecosystem is an innovation that combines the strengths of two existing consensus protocols: Proof of Stake (PoS) and Proof of Authority (PoA). 
+The FPoS (Finality Proof of Stake) consensus protocol used in the FENE Ecosystem is an innovation that combines the strengths of two existing consensus protocols: Proof of Stake (PoS) and Proof of Authority (PoA). 
 This combination aims to optimize network performance, enhance scalability and efficiency, while maintaining good decentralization and security. 
 
